@@ -1,0 +1,6 @@
+monitor_cost = int(input())
+system_block = int(input())
+keyboard = int(input())
+mouse = int(input())
+total_costs = (monitor_cost + system_block + keyboard + mouse) * 3
+print(str(total_costs))

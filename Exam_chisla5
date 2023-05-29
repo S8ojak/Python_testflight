@@ -1,0 +1,7 @@
+num1 = int(input())
+num2 = num1 - 1
+num3 = num1 + 1
+message = 'Следующее за числом ' + str(num1) + ' число:'
+message2 = 'Для числа ' + str(num1) + ' предыдущее число:'
+print(message, num3)
+print(message2, num2)

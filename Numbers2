@@ -1,0 +1,4 @@
+print('What is your age', end='?')
+s = int(input())
+year = s
+print('Thank you, am i right that your age is', s, '?')

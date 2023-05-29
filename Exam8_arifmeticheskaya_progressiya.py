@@ -1,0 +1,5 @@
+a1 = int(input())
+d = int(input())
+an = int(input())
+an = a1 + d * (an - 1)
+print(str(an))

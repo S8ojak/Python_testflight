@@ -1,0 +1,5 @@
+print ('Это первая строка.\nВторая строка')
+print ("Это первая строка.\nЭто вторая строка.")
+print('Python','hui', end='\n\n\n')
+print ('python', '\n', 'is', sep='', end='?')
+print ('\n', 'python', 'her', 'dlinniy', sep='\n')

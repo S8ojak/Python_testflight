@@ -1,0 +1,11 @@
+num1 = int(input())
+num2 = int(input())
+summa = num1 + num2
+raznonst = num1 - num2
+proizvedenie = num1 * num2
+slozhenie = str(num1) + ' + ' + str(num2) + ' = ' + str(summa)
+vichetanie = str(num1) + ' - ' + str(num2) + ' = ' + str(raznonst)
+umnozhenie = str(num1) + ' * ' + str(num2) + ' = ' + str(proizvedenie)
+print(slozhenie, vichetanie, umnozhenie, sep='\n')
+# альтернативный вариант решения задачи через f"{}
+# например slozhenie = f"{num1} + {num2} = {summa}

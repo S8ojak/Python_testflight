@@ -1,0 +1,5 @@
+age = 20
+message = "My age is " + str(age)
+print(message)  # Вывод: My age is 20
+# int - преобразование в число
+# str - преобразование из числа в строчный формат

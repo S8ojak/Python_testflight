@@ -1,0 +1,5 @@
+a = int(input())
+V = a * a * a
+S = 6 * (a * a)
+print('Объем =', V, end='\n')
+print('Площаль =', S)
